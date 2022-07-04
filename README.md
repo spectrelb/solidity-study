@@ -1,2 +1,2 @@
 # Solidity Study
-根据github教程，学习solidity [教程地址](https://github.com/AmazingAng/WTFSolidity)
+根据github教程，[Solidity极简入门](https://github.com/AmazingAng/WTFSolidity) 学习solidity 
